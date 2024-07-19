@@ -1,2 +1,2 @@
 # HYDROSAFE
-A python based appliance profiles simulator
+HYDROSAFE is a python based simulator for synthesizing load profiles
